@@ -1,0 +1,19 @@
+.task {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    box-shadow: 0 1px 3px rgba(9, 30, 66, 0.25);
+  }
+  
+  .task h3 {
+    margin: 0;
+  }
+  
+  .task-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
